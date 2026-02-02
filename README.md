@@ -14,12 +14,12 @@ This is a very important part of our hiring process. Therefore we recommend that
 
 -   Programming language: Use any object-oriented language, however our preference is C#.  
 -   We use GitHub to host these tests to create a modern practical engineering experience. Please complete this exercise and create a pull request containing your solution 
--   We recommend you create a development branch for your development and from this create a final pull request to the master branch for review
--   We would much prefer that you submit a complete software implementation that demonstrates modern engineering best practices.  However we also appreciate that to provide a complete solution we may be expecting too much of the candidates time. If you are pressed for time, we recommend you use the pull request to comment on areas that, given more time, you would address or have done differently. 
+-   We recommend you fork this repository for your development and from this create a pull request to the master branch for review
+-   We would much prefer that you submit a complete software implementation that demonstrates modern engineering best practices and showcases how you would achieve the task in a "production" scenario.  However we also appreciate that to provide a complete solution we may be expecting too much of the candidates time. If you are pressed for time, we recommend you use the pull request to comment on areas that, given more time, you would address or have done differently. 
 -   Time or other constraints: We are looking for a solution that is simple and well-structured. The suggested duration of this exercise is around 2-4 hours.  
 -   Please update the RUNME.MD file with instructions how to run your application 
 
-**Please note that your submission must only contain your own work. Under no circumstances should your submission contain any content owned or created (in whole or in part) by a third party except where you are expressly permitted to do so by the relevant third party. You may, for instance, use an open-source library for ancillary tasks, though you should not use one for the primary algorithms.**
+**Please note that your submission must only contain your own work. Under no circumstances should your submission contain any content owned or created (in whole or in part) by a third party except where you are expressly permitted to do so by the relevant third party. You may, for instance, use an open-source library for ancillary tasks, though you should not use one for the primary algorithms. If you are using Generative AI for your submission, please ensure that you are submitting the entire conversation history for development of the application. If we detect that you have used Gen AI and not included the prompt history then your submission will automatically be rejected.**
 
 ## Exercise
 
